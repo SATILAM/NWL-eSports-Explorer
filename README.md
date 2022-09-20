@@ -1,5 +1,5 @@
 # NWL-eSports-Explorer
-Site com os meus jogos estreamers  favoritos. HTML5 e CSS3.
+ Site with my favorite premier games. HTML5 and CSS3.
 
 
 
